@@ -1,2 +1,2 @@
-# hyperblog
-Blog ejemplo de Curso de Git y Github
+# Ejemplogit
+Ejemplo de Git
