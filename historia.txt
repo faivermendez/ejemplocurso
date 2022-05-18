@@ -1,3 +1,3 @@
-Esta es la biografía de Faiver Mendez. Tiene 22 años
-Vive en Neiva y estudia en la Universidad Surcolombiana.
+Este es el contenido del proyecto.
+Quiénes son los directamente afectados por el mismo.
 Fin.
